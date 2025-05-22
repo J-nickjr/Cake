@@ -927,6 +927,7 @@ C:\3.高雄雙語言課程練習\37.0515\CakeShop\CakeShop\bin\Debug\net8.0\Micr
 C:\3.高雄雙語言課程練習\37.0515\CakeShop\CakeShop\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
 C:\3.高雄雙語言課程練習\37.0515\CakeShop\CakeShop\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
 C:\3.高雄雙語言課程練習\37.0515\CakeShop\CakeShop\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\3.高雄雙語言課程練習\37.0515\CakeShop\CakeShop\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
 C:\3.高雄雙語言課程練習\37.0515\CakeShop\CakeShop\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
 C:\3.高雄雙語言課程練習\37.0515\CakeShop\CakeShop\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
 C:\3.高雄雙語言課程練習\37.0515\CakeShop\CakeShop\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
@@ -1179,10 +1180,10 @@ C:\3.高雄雙語言課程練習\37.0515\CakeShop\CakeShop\obj\Debug\net8.0\stat
 C:\3.高雄雙語言課程練習\37.0515\CakeShop\CakeShop\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CakeShop.props
 C:\3.高雄雙語言課程練習\37.0515\CakeShop\CakeShop\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CakeShop.props
 C:\3.高雄雙語言課程練習\37.0515\CakeShop\CakeShop\obj\Debug\net8.0\staticwebassets.pack.json
-C:\3.高雄雙語言課程練習\37.0515\CakeShop\CakeShop\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\3.高雄雙語言課程練習\37.0515\CakeShop\CakeShop\obj\Debug\net8.0\CakeShop.csproj.Up2Date
 C:\3.高雄雙語言課程練習\37.0515\CakeShop\CakeShop\obj\Debug\net8.0\CakeShop.dll
 C:\3.高雄雙語言課程練習\37.0515\CakeShop\CakeShop\obj\Debug\net8.0\refint\CakeShop.dll
 C:\3.高雄雙語言課程練習\37.0515\CakeShop\CakeShop\obj\Debug\net8.0\CakeShop.pdb
 C:\3.高雄雙語言課程練習\37.0515\CakeShop\CakeShop\obj\Debug\net8.0\CakeShop.genruntimeconfig.cache
 C:\3.高雄雙語言課程練習\37.0515\CakeShop\CakeShop\obj\Debug\net8.0\ref\CakeShop.dll
+C:\3.高雄雙語言課程練習\37.0515\CakeShop\CakeShop\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

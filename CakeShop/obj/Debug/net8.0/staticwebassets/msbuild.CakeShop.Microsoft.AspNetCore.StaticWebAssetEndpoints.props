@@ -4,13 +4,13 @@
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\CakeShop.ldyk47qqwf.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-CQt2B/ETDrNom95vAn0ZNpIbnB\u002BOr1ubIvbnOhyVZt8="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1126"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022CQt2B/ETDrNom95vAn0ZNpIbnB\u002BOr1ubIvbnOhyVZt8=\u0022"},{"Name":"Last-Modified","Value":"Mon, 05 May 2025 14:05:19 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1126"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022CQt2B/ETDrNom95vAn0ZNpIbnB\u002BOr1ubIvbnOhyVZt8=\u0022"},{"Name":"Last-Modified","Value":"Thu, 22 May 2025 10:40:03 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/CakeShop/CakeShop.ldyk47qqwf.bundle.scp.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\CakeShop.ldyk47qqwf.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ldyk47qqwf"},{"Name":"integrity","Value":"sha256-CQt2B/ETDrNom95vAn0ZNpIbnB\u002BOr1ubIvbnOhyVZt8="},{"Name":"label","Value":"_content/CakeShop/CakeShop.bundle.scp.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1126"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022CQt2B/ETDrNom95vAn0ZNpIbnB\u002BOr1ubIvbnOhyVZt8=\u0022"},{"Name":"Last-Modified","Value":"Mon, 05 May 2025 14:05:19 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1126"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022CQt2B/ETDrNom95vAn0ZNpIbnB\u002BOr1ubIvbnOhyVZt8=\u0022"},{"Name":"Last-Modified","Value":"Thu, 22 May 2025 10:40:03 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/CakeShop/css/site.c2tiyv64ts.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
