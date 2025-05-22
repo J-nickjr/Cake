@@ -22,6 +22,7 @@
                     @if (User.Identity != null && User.Identity.IsAuthenticated) // 檢查是否登入
                     {
                         <form asp-controller="ShoppingCart" asp-action="AddToCart" method="post" class="d-inline">
+                            @Html.AntiForgeryToken() <!-- ⚠️這一行必加 -->
                             <input type="hidden" name="cakeId" value="@item.Id" />
                             <input type="hidden" name="quantity" value="1" /> @* 列表頁預設加入1個 *@
                             <button type="submit" class="btn btn-success btn-sm float-end">加入購物車</button>
